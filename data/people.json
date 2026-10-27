@@ -1,0 +1,113 @@
+{
+  "patrons": [
+    {
+      "id": "chief-patron",
+      "name": "Dr. Sabitha Ramamurthy",
+      "title": "Chief Patron",
+      "role": "Chancellor",
+      "affiliation": "CMR University",
+      "image": "data/cmrapp/image33.png",
+      "bio": "Provides institutional stewardship, strategic vision, and academic leadership for ICICIC and CMR University."
+    },
+    {
+      "id": "patron",
+      "name": "Dr. H. B. Raghavendra",
+      "title": "Patron",
+      "role": "Vice Chancellor",
+      "affiliation": "CMR University",
+      "image": "data/cmrapp/2.jpg",
+      "bio": "Guides academic strategy, research direction, and institutional partnerships supporting the conference."
+    },
+    {
+      "id": "conference-chair",
+      "name": "Dr. Praveen R",
+      "title": "Conference Chair",
+      "role": "Pro-Vice Chancellor",
+      "affiliation": "CMR University",
+      "image": "data/cmrapp/3.jpg",
+      "bio": "Leads the conference program, approvals, and coordination across academic and operational teams."
+    }
+  ],
+  "speakers": [
+    {
+      "id": "keynote-1",
+      "name": "Keynote Speaker",
+      "role": "Name and talk coming soon",
+      "affiliation": "",
+      "topic": "",
+      "bio": "",
+      "image": "data/avatars/speaker-placeholder.svg",
+      "type": "keynote"
+    },
+    {
+      "id": "keynote-2",
+      "name": "Keynote Speaker",
+      "role": "Name and talk coming soon",
+      "affiliation": "",
+      "topic": "",
+      "bio": "",
+      "image": "data/avatars/speaker-placeholder.svg",
+      "type": "keynote"
+    },
+    {
+      "id": "keynote-3",
+      "name": "Keynote Speaker",
+      "role": "Name and talk coming soon",
+      "affiliation": "",
+      "topic": "",
+      "bio": "",
+      "image": "data/avatars/speaker-placeholder.svg",
+      "type": "keynote"
+    },
+    {
+      "id": "keynote-4",
+      "name": "Keynote Speaker",
+      "role": "Name and talk coming soon",
+      "affiliation": "",
+      "topic": "",
+      "bio": "",
+      "image": "data/avatars/speaker-placeholder.svg",
+      "type": "keynote"
+    },
+    {
+      "id": "invited-1",
+      "name": "Invited Speaker",
+      "role": "Name and talk coming soon",
+      "affiliation": "",
+      "topic": "",
+      "bio": "",
+      "image": "data/avatars/speaker-placeholder.svg",
+      "type": "invited"
+    },
+    {
+      "id": "invited-2",
+      "name": "Invited Speaker",
+      "role": "Name and talk coming soon",
+      "affiliation": "",
+      "topic": "",
+      "bio": "",
+      "image": "data/avatars/speaker-placeholder.svg",
+      "type": "invited"
+    },
+    {
+      "id": "invited-3",
+      "name": "Invited Speaker",
+      "role": "Name and talk coming soon",
+      "affiliation": "",
+      "topic": "",
+      "bio": "",
+      "image": "data/avatars/speaker-placeholder.svg",
+      "type": "invited"
+    },
+    {
+      "id": "invited-4",
+      "name": "Invited Speaker",
+      "role": "Name and talk coming soon",
+      "affiliation": "",
+      "topic": "",
+      "bio": "",
+      "image": "data/avatars/speaker-placeholder.svg",
+      "type": "invited"
+    }
+  ]
+}
